@@ -1,5 +1,6 @@
-# xafcm
-Extended-Alphabet Finite-Context Models (xaFCM)
+## xaFCM
+Extended-Alphabet Finite-Context models (xaFCM) are an extension to the traditional finite-context models (FCM).
+This implementation uses circular sequences, but it is easily changeable.
 
 ## CITATION
 Please cite the following paper, if you use <i>xaFCM</i>:
