@@ -1,6 +1,16 @@
 ## xaFCM
 Extended-Alphabet Finite-Context models (xaFCM) are an extension to the traditional finite-context models (FCM).
-This implementation uses circular sequences, but it is easily changeable.
+This implementation uses circular sequences, but that it is easily changeable.
+
+## INSTALLATION
+Just clone the repository using:
+`git clone https://github.com/joaomrcarvalho/xafcm.git`
+
+## DEPENDENCIES
+Python 3.5 with pympler library.
+
+## USAGE
+A simple example is provided in main.py. Please check the article below for understanding how to tune the parameters.
 
 ## CITATION
 Please cite the following paper, if you use <i>xaFCM</i>:
