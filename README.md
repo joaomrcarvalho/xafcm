@@ -12,6 +12,4 @@ Please let me know if there is any issues, at https://github.com/joaomrcarvalho/
 ## LICENSE
 GPL v3.
 
-For more information, please visit
-[http://www.gnu.org/licenses/gpl-3.0.html]
-(http://www.gnu.org/licenses/gpl-3.0.html).
+For more information, please visit http://www.gnu.org/licenses/gpl-3.0.html.
