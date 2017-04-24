@@ -1,4 +1,3 @@
-import sys
 from math import log2, pow
 from ContextLine import ContextLine
 from pympler import asizeof
