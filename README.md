@@ -17,7 +17,7 @@ Please cite the following paper, if you use <i>xaFCM</i>:
 * João M. Carvalho, Susana Brás, Diogo Pratas, Jacqueline Ferreira, Sandra C. Soares, Armando J. Pinho, "Introducing Extended-Alphabet Finite-Context Models for ECG Biometric Identification", 2017. (to be published)
 
 ## ISSUES
-Please let me know if there is any issues, at https://github.com/joaomrcarvalho/xafcm/issues
+Please let me know if you find any issue, at https://github.com/joaomrcarvalho/xafcm/issues
 
 ## LICENSE
 GPL v3.
