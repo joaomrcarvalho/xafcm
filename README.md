@@ -14,7 +14,7 @@ A simple example is provided in main.py. Please check the article below for unde
 
 ## CITATION
 Please cite the following paper, if you use <i>xaFCM</i>:
-* João M. Carvalho, Susana Brás, Diogo Pratas, Jacqueline Ferreira, Sandra C. Soares, Armando J. Pinho, "Introducing Extended-Alphabet Finite-Context Models for ECG Biometric Identification", 2017. (to be published)
+* João M. Carvalho, Susana Brás, Diogo Pratas, Jacqueline Ferreira, Sandra C. Soares, Armando J. Pinho, "Extended-Alphabet Finite-Context Models", Pattern Recognition Letters 2018.
 
 ## ISSUES
 Please let me know if you find any issue, at https://github.com/joaomrcarvalho/xafcm/issues
